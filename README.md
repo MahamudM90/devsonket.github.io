@@ -51,7 +51,7 @@ git push -u origin <your_branch_name>
 13. Add an appropriate title and description to your pull request explaining your changes and efforts.
 14. Click on Create Pull Request.
 15. Woohoo!🥳 You have made a PR to the **devsonket**. Wait for your submission to be accepted and your PR to be merged.
-You made it! 🎊
+You made by it! 🎊
 
 ## আইডিয়া খুঁজছেন?(Want an idea?) 
 
